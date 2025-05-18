@@ -1,8 +1,8 @@
 # DJI_P4M_image_process
 
 大疆精灵4多光谱版无人机图像处理指南 DJI_P$_Multispectral image process
-#完成指南中植被指数计算功能，其中包含了图像配准步骤。
-#大疆精灵4多光谱版无人机图像处理指南V1.0 2020.07 --代码实现
+# 完成指南中植被指数计算功能，其中包含了图像配准步骤。
+# 大疆精灵4多光谱版无人机图像处理指南V1.0 2020.07 --代码实现
 
 （`https://dl.djicdn.com/downloads/p4-multispectral/20200717/P4_Multispectral_Image_Processing_Guide_CHS.pdf`）
 ##使用指南
